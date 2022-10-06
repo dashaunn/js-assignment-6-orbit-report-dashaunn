@@ -28,8 +28,5 @@ th, td {
 }
 
 tr:nth-child(even) {
-    text-align: left;
-    margin: 5px 10px;
-    padding: 6px;
     background-color: rgb(214, 184, 222);
 }
